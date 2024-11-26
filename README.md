@@ -1,0 +1,2 @@
+Power BI Dashboard---
+H&M Fashion analytics Dashboard- https://app.powerbi.com/view?r=eyJrIjoiODllM2FjMjktNWYxNS00MGUyLWIxNDYtNzhhYThiYTYxMzk3IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=f214a32dfc97e46d4638
